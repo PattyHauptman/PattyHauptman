@@ -1,4 +1,6 @@
-# **Olá!** 👋 ### Aqui você pode conhecer um pouco mais sobre o que estou estudando!
+# **Olá! Eu sou a Patty**
+
+### Aqui você pode conhecer um pouco mais sobre o que estou estudando!
 ###
 ![GitHub_Logo](IMG-20220119-WA0000.jpg)
 
