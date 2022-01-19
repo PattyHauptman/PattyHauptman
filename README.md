@@ -4,4 +4,4 @@
 
 [Meu Linkedin](https://www.linkedin.com/in/patricia-hauptman-a35b61122/)
 ###
-![Github_Logo](apresentação1.png)
+![GitHub_Logo](apresentação1.png)
