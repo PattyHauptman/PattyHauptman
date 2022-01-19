@@ -1,6 +1,5 @@
-# **Olá! Eu sou a Patty**
-
-### Aqui você pode conhecer um pouco mais sobre o que estou estudando!
+## **Olá, eu sou a Patty!**
+### Aqui você poderá conhecer um pouco mais sobre o que estou estudando!
 ###
 ![GitHub_Logo](IMG-20220119-WA0000.jpg)
 
